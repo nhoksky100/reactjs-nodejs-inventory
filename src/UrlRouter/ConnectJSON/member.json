@@ -1,0 +1,32 @@
+[
+    {
+        "id": "90420495-c9",
+        "memberCode": "MTV-3643855c-88",
+        "memberMaker": "Admin",
+        "memberPermission": "Admin",
+        "memberName": "Admin",
+        "memberDepartment": "Kế toán",
+        "memberGender": "nam",
+        "memberAddress": "6ggg dffd",
+        "memberNumberPhone": "0909344666",
+        "memberEmail": "nhoksky91@gmail.com",
+        "memberStatus": "Đang sử dụng",
+        "memberDateCreated": "30/03/2024 - 1:20 PM",
+        "memberDateUpdate": "31/03/2024 - 9:51 AM"
+    },
+    {
+        "id": "955ba14a-8c",
+        "memberCode": "MTV-e717f9d9-41",
+        "memberMaker": "",
+        "memberPermission": "Lãnh đạo",
+        "memberName": "Ali",
+        "memberDepartment": "CEO",
+        "memberGender": "Nam",
+        "memberAddress": "Nha Trang khánh hoà",
+        "memberNumberPhone": "0909999888",
+        "memberEmail": "nhoksky97@gmail.com",
+        "memberStatus": "Đang sử dụng",
+        "memberDateCreated": "08/06/2024 - 3:45 PM",
+        "memberDateUpdate": "08/06/2024 - 3:45 PM"
+    }
+]

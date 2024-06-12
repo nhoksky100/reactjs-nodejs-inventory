@@ -1,0 +1,24 @@
+[
+    {
+        "id": "90420495-c9",
+        "accountCode": "MTV-3643855c-88",
+        "accountUserName": "Admin",
+        "accountPassword": "$2a$10$dKIpuSjY8cPxrfaVU/LpHeXE3TtUCTzaC2.8PO2/zHehsyHbycdZO",
+        "accountEmail": "nhoksky91@gmail.com",
+        "accountPermission": "Admin",
+        "accountStatus": "Đang sử dụng",
+        "accountDateCreated": "07/04/2024 - 2:53 PM",
+        "accountDateUpdate": "07/04/2024 - 2:53 PM"
+    },
+    {
+        "id": "955ba14a-8c",
+        "accountCode": "MTV-e717f9d9-41",
+        "accountUserName": "lanhdao",
+        "accountPassword": "$2a$10$fAk9I2O0W4XPvgyVshy3eeG94C.StH7NvuG8Cs1AmYLl/qQz0dcMi",
+        "accountEmail": "nhoksky97@gmail.com",
+        "accountPermission": "Lãnh đạo",
+        "accountStatus": "Đang sử dụng",
+        "accountDateCreated": "08/06/2024 - 3:46 PM",
+        "accountDateUpdate": "08/06/2024 - 3:46 PM"
+    }
+]
